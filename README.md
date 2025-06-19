@@ -1,2 +1,4 @@
-# odyssee-sud-app
-Odyssée Sud – Travel platform (flights, last minute, profile)
+# Odyssée Sud
+
+Proiect final complet: homepage, calendar, last minute, profil.
+100% responsive, gata de Vercel.
