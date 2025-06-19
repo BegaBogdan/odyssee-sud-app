@@ -1,0 +1,40 @@
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #832909, #f9a03f);
+  color: white;
+  font-family: 'Georgia', serif;
+}
+
+.main {
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+  margin: 1rem 0;
+}
+
+.description {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.cta {
+  padding: 0.75rem 1.5rem;
+  background-color: #a5440e;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
